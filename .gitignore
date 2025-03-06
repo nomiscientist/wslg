@@ -1,4 +1,3 @@
-.vscode/*
 vendor/*
 !vendor/.preserve
 out
@@ -14,3 +13,5 @@ WSLDVCPlugin/x64
 WSLDVCPlugin/ARM64/Debug/
 WSLDVCPlugin/ARM64/Release/
 WSLDVCPlugin/WSLDVCPlugin.aps
+config.bat
+node_modules
